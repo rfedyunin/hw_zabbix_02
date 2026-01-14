@@ -16,7 +16,7 @@
 
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
-`![Screenshot_5.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_5.jpg)`
+![Screenshot_5.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_5.jpg)
 
 
 
