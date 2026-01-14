@@ -38,7 +38,7 @@
 
 Результат данного задания сдавайте вместе с заданием 3`
 
-`![Screenshot_7.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_7.jpg)`
+![Screenshot_7.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_7.jpg)
 
 
 ---
@@ -57,8 +57,8 @@
 
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения`
 
-`![Screenshot_8.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_8.jpg)`
-`![Screenshot_9.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_9.jpg)`
+![Screenshot_8.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_8.jpg)
+![Screenshot_9.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_9.jpg)
 
 
 
@@ -75,4 +75,4 @@
 
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»`
 
-`![Screenshot_10.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_10.jpg)`
+![Screenshot_10.jpg](https://github.com/rfedyunin/hw_zabbix_02/blob/main/Screenshot_10.jpg)
